@@ -1,0 +1,62 @@
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+AutoClicker/Debug
+AutoClicker/Release
+AutoClicker.opensdf
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.vspscc
+*.vssscc
+.builds
+
+*.pidb
+
+*.log
+*.scc
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+
+# Visual Studio profiler
+*.psess
+*.vsp
+
+# Click-Once directory
+publish
+
+# Publish Web Output
+*.Publish.xml
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db

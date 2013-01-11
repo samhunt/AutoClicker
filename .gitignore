@@ -10,6 +10,7 @@ AutoClicker.opensdf
 *.user
 *.sln.docstates
 
+*.exe
 *_i.c
 *_p.c
 *.ilk

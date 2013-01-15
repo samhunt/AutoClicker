@@ -13,7 +13,7 @@ public:
 	// Creates a singleton instance of ListenToClicks, therefore allowing ListenToClicks to
 	// be called in multiple locations and only have to be initialized once.
 	//
-	// This makes sure that every method in Form1 gets the same variables for ListenToClicks.
+	// This makes sure that every method in AutoClickerForm gets the same variables for ListenToClicks.
 	static ListenToClicks& instance();
 	// Prints out click_list_ on stdout so that you see what the list looks.
 	void PrintList();

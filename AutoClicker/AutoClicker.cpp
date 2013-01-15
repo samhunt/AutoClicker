@@ -24,7 +24,7 @@ int main()
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);
 	// Create the main window and run it
-	Application::Run(gcnew Form1());
+	Application::Run(gcnew AutoClickerForm());
 
 	return 0;
 }

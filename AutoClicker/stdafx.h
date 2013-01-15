@@ -4,4 +4,4 @@
 #pragma once
 #include "Click.h"
 #include "guicon.h"
-#include "Form1.h"
+#include "AutoClickerForm.h"

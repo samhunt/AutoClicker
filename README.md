@@ -1,7 +1,9 @@
 AutoClicker
 ===========
 
-Listens to the users clicks, and then loops them when the user wants to.
+Is a simple auto clicker written in c++
+
+Listens to the users clicks, and then loops them when the user wants to replay the clicks.
 
 Load into Visual Studio and compile.
 Run AutoClicker.exe
